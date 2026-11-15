@@ -50,51 +50,6 @@ Quiz-Application-Using-Java/
 └── README.md
 ```
 
-## ⚙️ Installation & Setup
-
-### 1. Clone the Repository
-
-```bash
-git clone YOUR_REPOSITORY_URL
-```
-
-### 2. Navigate to the Project Directory
-
-```bash
-cd Quiz-Application-Using-Java
-```
-
-### 3. Check Java Installation
-
-Make sure Java JDK is installed.
-
-```bash
-java -version
-javac -version
-```
-
-### 4. Compile the Project (Without Ant)
-
-Open the terminal in the project root directory.
-
-For Windows PowerShell:
-
-```powershell
-New-Item -ItemType Directory -Force -Path build/classes
-
-$files = Get-ChildItem -Path src -Recurse -Filter *.java | ForEach-Object { $_.FullName }
-
-javac -d build/classes $files
-```
-
-### 5. Run the Application
-
-```powershell
-java -cp "build/classes;src" quiz.application.Login
-```
-
-The Simple Minds Quiz Application will launch on your desktop.
-
 ## 🎮 How to Play
 
 1. Launch the application.
@@ -106,8 +61,6 @@ The Simple Minds Quiz Application will launch on your desktop.
 7. Use the 50-50 Lifeline when needed.
 8. Submit your answers to view your final score.
 9. Click Play Again to restart the quiz.
-
-## 📸 Application Screenshots
 
 ### 1. Login Screen
 Enter your name to access the quiz application.
