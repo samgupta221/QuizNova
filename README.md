@@ -1,4 +1,4 @@
-# 🧠 Simple Minds – Java Quiz Application
+# 🧠 QuizNova – Java Quiz Application
 
 Simple Minds is a desktop-based Quiz Application developed using **Java and Java Swing**. It provides an interactive quiz experience where users can answer multiple-choice questions within a limited time, use lifelines, and view their final scores.
 
