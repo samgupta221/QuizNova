@@ -61,15 +61,3 @@ Quiz-Application-Using-Java/
 7. Use the 50-50 Lifeline when needed.
 8. Submit your answers to view your final score.
 9. Click Play Again to restart the quiz.
-
-### 1. Login Screen
-Enter your name to access the quiz application.
-
-### 2. Rules Screen
-Read the instructions before starting the quiz.
-
-### 3. Quiz Screen
-Answer timed multiple-choice questions and use the available lifeline.
-
-### 4. Final Score Screen
-View your score and play again.
