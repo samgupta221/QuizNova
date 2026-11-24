@@ -1,0 +1,23 @@
+
+# Java compiled files
+*.class
+*.log
+
+# Generated build output
+build/
+nbbuild/
+dist/
+nbdist/
+
+# NetBeans private configuration
+**/nbproject/private/
+**/nbproject/Makefile-*.mk
+**/nbproject/Package-*.bash
+
+# IDE files
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
